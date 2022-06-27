@@ -1,0 +1,10 @@
+com\rest\filters\JWTTokenNeededFilter.class
+com\rest\entity\User.class
+com\rest\utils\LoggerProducer.class
+com\rest\utils\PasswordUtils.class
+com\rest\controllers\EchoEndpoint.class
+com\rest\filters\JWTTokenNeeded.class
+com\rest\utils\KeyGenerator.class
+com\rest\config\ApplicationConfig.class
+com\rest\controllers\UserEndpoint.class
+com\rest\utils\SimpleKeyGenerator.class

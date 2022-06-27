@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringMvcWithJdbcDemo"/>
+<aop-project name="SpringMVC5JavaBasedConfigDemo"/>
+<aop-project name="SpringWithJspHibernateDemo"/>
+<aop-project name="SpringMVCWithXmlJavaApp"/>
+<aop-project name="SpringMVCJavaConfigDemo"/>
+<aop-project name="SpringMvcWithXmlJavaDemo"/>
+<aop-project name="SpringFormValidation"/>
+</aop-reference-model>

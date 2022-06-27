@@ -1,0 +1,10 @@
+package com.jpa.demo;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        User user = new User("Pritam Ray", "Ropar", "45000");
+       HibernateUtils.getSessionFactory();
+    }
+}

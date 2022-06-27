@@ -1,0 +1,9 @@
+package com.jdbc.demo;
+
+import com.dbj.connection.Connect;
+
+public class App {
+	public static void main(String[] args) {
+		Connect.Connect("com.mysql.cj.jdbc.Driver","jdbc:mysql://localhost:3306/test","root","1998");
+	}
+}

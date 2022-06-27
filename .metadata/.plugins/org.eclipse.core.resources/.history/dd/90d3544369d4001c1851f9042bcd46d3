@@ -1,0 +1,13 @@
+package com.jdbc.demo;
+
+import com.dbj.connection.Connect;
+import com.dbj.query.Insert;
+
+public class App {
+	public static void main(String[] args) {
+		Connect.Connect("com.mysql.cj.jdbc.Driver", "jdbc:mysql://localhost:3306/test", "root", "1998");
+		String[] index = { "first_name", "last_name", "email" };
+		String[] value = { "A", "Chowdhury", "gdgDevfest@gmail.com" };
+		Insert.Save("customer",index,value);
+	}
+}
