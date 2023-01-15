@@ -1,0 +1,10 @@
+com\rest\api\dbconfig\SessionFactoryProvider.class
+com\rest\api\entity\User.class
+com\rest\api\dao\UserDao.class
+com\rest\api\config\AppResourceConfig.class
+com\rest\api\services\UserService.class
+com\rest\api\dbconfig\DBINFO.class
+com\rest\api\dao\UserDaoImpl.class
+com\rest\api\dbconfig\PropertyReaderValue.class
+com\rest\api\services\UserServiceImpl.class
+com\rest\api\controller\UserController.class

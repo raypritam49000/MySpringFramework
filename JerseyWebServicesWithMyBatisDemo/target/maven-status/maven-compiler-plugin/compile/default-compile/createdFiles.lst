@@ -1,0 +1,7 @@
+com\mybatis\services\impl\PersonServiceImpl.class
+com\rest\api\dbconfig\SqlSessionFactoryProvider.class
+com\mybatis\services\PersonService.class
+com\mybatis\dao\PersonMapper.class
+com\mybatis\model\Person.class
+com\rest\api\dbconfig\DBINFO.class
+com\rest\api\dbconfig\PropertyReaderValue.class

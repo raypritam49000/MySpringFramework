@@ -1,0 +1,3 @@
+com\crud\operation\config\MvcWebApplicationInitializer.class
+com\crud\operation\config\MvcWebConfig.class
+com\crud\operation\controllers\PersonController.class

@@ -1,0 +1,10 @@
+com\gurugubelli\bean\Employee.class
+com\gurugubelli\service\EmployeeServiceImpl.class
+com\gurugubelli\config\MvcWebConfig.class
+com\gurugubelli\service\EmployeeService.class
+com\gurugubelli\config\AppConfig.class
+com\gurugubelli\controller\EmployeeController.class
+com\gurugubelli\util\GurugubelliUtil.class
+com\gurugubelli\config\MvcWebApplicationInitializer.class
+com\gurugubelli\dao\EmployeeDao.class
+com\gurugubelli\dao\EmployeeDaoImpl.class
